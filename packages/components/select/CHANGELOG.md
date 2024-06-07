@@ -1,5 +1,18 @@
 # @nextui-org/select
 
+## 2.2.2
+
+### Patch Changes
+
+- [#3177](https://github.com/nextui-org/nextui/pull/3177) [`a0d6a77ef`](https://github.com/nextui-org/nextui/commit/a0d6a77efbe917df406bb309cbd1750629534eaf) Thanks [@wingkwong](https://github.com/wingkwong)! - Add missing `data-invalid` attribute (#3149)
+
+- [#3157](https://github.com/nextui-org/nextui/pull/3157) [`a06422f37`](https://github.com/nextui-org/nextui/commit/a06422f373a13a0cf9f5fada394dec4739ee57e3) Thanks [@wingkwong](https://github.com/wingkwong)! - set empty string instead of undefined for unsetting value (#3156)
+
+- Updated dependencies [[`3500147d7`](https://github.com/nextui-org/nextui/commit/3500147d7fbe53bc01ae24749fdeaf87c37c0d12)]:
+  - @nextui-org/shared-icons@2.0.8
+  - @nextui-org/listbox@2.1.21
+  - @nextui-org/popover@2.1.23
+
 ## 2.2.1
 
 ### Patch Changes

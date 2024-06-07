@@ -1,5 +1,11 @@
 # @nextui-org/tabs
 
+## 2.0.32
+
+### Patch Changes
+
+- [#3164](https://github.com/nextui-org/nextui/pull/3164) [`5c83e9cea`](https://github.com/nextui-org/nextui/commit/5c83e9ceafd014691b0532192bee28dd1cdc503f) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed incorrect content in tab panel (#3159)
+
 ## 2.0.31
 
 ### Patch Changes

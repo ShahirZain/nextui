@@ -1,5 +1,18 @@
 # @nextui-org/autocomplete
 
+## 2.1.2
+
+### Patch Changes
+
+- [#3175](https://github.com/nextui-org/nextui/pull/3175) [`2069a7a9d`](https://github.com/nextui-org/nextui/commit/2069a7a9d00291266fef763c6817b3bdd3ed4707) Thanks [@wingkwong](https://github.com/wingkwong)! - Fix maximum update depth exceeded on Autocomplete component (#3094)
+
+- Updated dependencies [[`3500147d7`](https://github.com/nextui-org/nextui/commit/3500147d7fbe53bc01ae24749fdeaf87c37c0d12)]:
+  - @nextui-org/shared-icons@2.0.8
+  - @nextui-org/button@2.0.33
+  - @nextui-org/input@2.2.2
+  - @nextui-org/listbox@2.1.21
+  - @nextui-org/popover@2.1.23
+
 ## 2.1.1
 
 ### Patch Changes

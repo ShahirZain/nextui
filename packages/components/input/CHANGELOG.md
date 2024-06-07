@@ -1,5 +1,12 @@
 # @nextui-org/input
 
+## 2.2.2
+
+### Patch Changes
+
+- Updated dependencies [[`3500147d7`](https://github.com/nextui-org/nextui/commit/3500147d7fbe53bc01ae24749fdeaf87c37c0d12)]:
+  - @nextui-org/shared-icons@2.0.8
+
 ## 2.2.1
 
 ### Patch Changes

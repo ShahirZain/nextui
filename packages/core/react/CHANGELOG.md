@@ -1,5 +1,40 @@
 # @nextui-org/react
 
+## 2.4.2
+
+### Patch Changes
+
+- Updated dependencies [[`68d1629e7`](https://github.com/nextui-org/nextui/commit/68d1629e778723c85825463ef0d2cdd66c1a4aff), [`5c83e9cea`](https://github.com/nextui-org/nextui/commit/5c83e9ceafd014691b0532192bee28dd1cdc503f), [`a0d6a77ef`](https://github.com/nextui-org/nextui/commit/a0d6a77efbe917df406bb309cbd1750629534eaf), [`a06422f37`](https://github.com/nextui-org/nextui/commit/a06422f373a13a0cf9f5fada394dec4739ee57e3), [`2069a7a9d`](https://github.com/nextui-org/nextui/commit/2069a7a9d00291266fef763c6817b3bdd3ed4707)]:
+  - @nextui-org/pagination@2.0.33
+  - @nextui-org/tabs@2.0.32
+  - @nextui-org/select@2.2.2
+  - @nextui-org/autocomplete@2.1.2
+  - @nextui-org/table@2.0.36
+  - @nextui-org/accordion@2.0.35
+  - @nextui-org/avatar@2.0.29
+  - @nextui-org/badge@2.0.28
+  - @nextui-org/breadcrumbs@2.0.10
+  - @nextui-org/button@2.0.33
+  - @nextui-org/calendar@2.0.7
+  - @nextui-org/checkbox@2.1.1
+  - @nextui-org/chip@2.0.30
+  - @nextui-org/date-input@2.1.0
+  - @nextui-org/date-picker@2.1.2
+  - @nextui-org/dropdown@2.1.25
+  - @nextui-org/input@2.2.2
+  - @nextui-org/link@2.0.32
+  - @nextui-org/listbox@2.1.21
+  - @nextui-org/menu@2.0.24
+  - @nextui-org/modal@2.0.36
+  - @nextui-org/navbar@2.0.32
+  - @nextui-org/slider@2.2.11
+  - @nextui-org/snippet@2.0.38
+  - @nextui-org/switch@2.0.30
+  - @nextui-org/progress@2.0.30
+  - @nextui-org/popover@2.1.23
+  - @nextui-org/card@2.0.30
+  - @nextui-org/user@2.0.30
+
 ## 2.4.1
 
 ### Patch Changes
